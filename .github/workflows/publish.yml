@@ -33,7 +33,10 @@ jobs:
             any::shinylive
 
       - name: Render Quarto Project
-        run: quarto render --output-dir docs  # Ensures Quarto outputs to /docs
+        run: 
+          quarto render --output-dir docs  # Ensures Quarto outputs to /docs
+          touch docs/.nojekyll  # Disable Jekyll processing
+        
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2

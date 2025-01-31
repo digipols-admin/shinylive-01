@@ -1,5 +1,5 @@
 ---
-title: "My survey app"
+title: "My survey App"
 format: html
 ---
 
