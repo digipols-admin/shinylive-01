@@ -2,8 +2,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Survey App",
+    "title": "My survey app",
     "section": "",
-    "text": "```ffoaobmtnqhux #| standalone: true #| viewerHeight: 600\nlibrary(shiny) library(bslib) library(ggplot2) library(tidyr) library(dplyr) library(uuid)\n\nRest of your app.R code goes here"
+    "text": "```ezxpiinlnudbn #| standalone: true #| viewerHeight: 600\nlibrary(shiny) library(bslib) library(ggplot2) library(tidyr) library(dplyr) library(uuid)\n\nRest of your app.R code goes here"
   }
 ]
