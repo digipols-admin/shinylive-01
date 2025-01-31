@@ -1,9 +1,17 @@
 ---
-title: "My Survey App"
+title: "Survey App"
 format: html
-server: shiny
 ---
 
 ```{shinylive-r}
 #| standalone: true
 #| viewerHeight: 600
+
+library(shiny)
+library(bslib)
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(uuid)
+
+# Rest of your app.R code goes here
