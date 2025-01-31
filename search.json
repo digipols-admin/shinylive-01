@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "Survey App",
     "section": "",
-    "text": "```ubyfvnkarmpqg #| standalone: true #| viewerHeight: 600\nlibrary(shiny) library(bslib) library(ggplot2) library(tidyr) library(dplyr) library(uuid)\n\nRest of your app.R code goes here"
+    "text": "```ffoaobmtnqhux #| standalone: true #| viewerHeight: 600\nlibrary(shiny) library(bslib) library(ggplot2) library(tidyr) library(dplyr) library(uuid)\n\nRest of your app.R code goes here"
   }
 ]
