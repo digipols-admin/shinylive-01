@@ -1,5 +1,5 @@
 ---
-title: "Survey App"
+title: "My Survey App"
 format: html
 server: shiny
 ---
