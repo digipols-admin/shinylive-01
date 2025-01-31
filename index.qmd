@@ -1,0 +1,9 @@
+---
+title: "Survey App"
+format: html
+server: shiny
+---
+
+```{shinylive-r}
+#| standalone: true
+#| viewerHeight: 600
