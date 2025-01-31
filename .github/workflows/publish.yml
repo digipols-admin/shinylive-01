@@ -32,6 +32,9 @@ jobs:
             any::shiny
             any::shinylive
 
+     - name: Render Quarto Project  # This step is missing in your setup
+        run: quarto render
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
