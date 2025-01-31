@@ -1,1 +1,1 @@
-Sitemap: https://github.com/digipols-admin/shinylive-01/sitemap.xml
+Sitemap: https://digipols-admin.github.io/shinylive-01/sitemap.xml
